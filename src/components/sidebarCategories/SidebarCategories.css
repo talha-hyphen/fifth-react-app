@@ -1,0 +1,16 @@
+.SidebarCategories{
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+   width: 5%;
+}
+tr{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: .8rem; padding-left: 0;
+}
+td{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
